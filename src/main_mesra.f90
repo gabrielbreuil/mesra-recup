@@ -2,7 +2,7 @@ program main_mesra
 
 use declare
 
-write(6,*)
+write(6,*)              'BONJOUR'
 write(6,*) '           ********************'
 write(6,*) '           *                  *'
 write(6,*) '           *  MESRA software  *'
